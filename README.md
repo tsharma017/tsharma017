@@ -1,7 +1,31 @@
 👋 Hi there, I'm **Tej Sharma**, a Postdoctoral Research Fellow at Jacobs School of Medicine and Biomedical Sciences, Buffalo NY.
 
 🌱 **Current Learning**
-I'm continuously expanding my knowledge in bioinformatics, machine learning, and deep learning, with a focus on integrating multi-omic data to explore the underlying mechanisms of cancer. My goal is to uncover disease mechanisms, predict immunotherapy resistance, and identify therapeutic targets. I'm also enhancing my skills in large language models and artificial general intelligence, exploring their potential implications in cancer research and drug development. Additionally, I'm committed to mastering Python,R and Bash scripting to drive advanced data analysis and innovative software solutions, with the ambition of leading impactful projects in startups focused on data science and health related data analysis.
+I am a passionate AI enthusiast | Quantitative Researcher | Machine Learning Engineer with expertise in large-scale data analysis across healthcare and finance. My research focuses on integrating multi-omics data, clinical records, and financial datasets to uncover hidden patterns, predict disease mechanisms, and optimize decision-making systems.
+
+🔬 In Healthcare & Bioinformatics, I leverage machine learning, deep learning, and AI to:
+
+Decipher disease mechanisms and immunotherapy resistance.
+
+Identify novel therapeutic targets using genomics, transcriptomics, and proteomics.
+
+Develop predictive models for patient stratification and drug response.
+
+📊 In Quantitative Finance, I apply statistical modeling, time-series analysis, and algorithmic strategies to:
+
+Analyze market trends and risk factors using alternative datasets.
+
+Build robust trading signals and portfolio optimization models.
+
+Detect anomalies in high-frequency financial data.
+
+🤖 Emerging Interests:
+
+Large Language Models (LLMs) for biomedical literature mining and financial sentiment analysis.
+
+Artificial General Intelligence (AGI) for cross-domain knowledge discovery.
+
+High-performance computing (HPC) and distributed systems for scalable data processing.
 
 ### 👯 Collaboration Interests
 I'm excited to collaborate and work  on innovative bioinformatics and data science projects. With a deep passion for data analysis and predictive statistics, I thrive on exploring new methodologies and uncovering insights. I am keen to connect with like-minded individuals and teams to tackle complex challenges and create impactful solutions. Let’s harness the power of data together to drive forward-thinking projects and make meaningful contributions to the field.
