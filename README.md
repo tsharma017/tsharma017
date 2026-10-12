@@ -8,11 +8,6 @@ Decipher disease mechanisms and immunotherapy resistance.
 Identify novel therapeutic targets using genomics, transcriptomics, and proteomics.
 Develop predictive models for patient stratification and drug response.
 
-📊 In Quantitative Finance, I apply statistical modeling, time-series analysis, and algorithmic strategies to:
-Analyze market trends and risk factors using alternative datasets.
-Build robust trading signals and portfolio optimization models.
-Detect anomalies in high-frequency financial data.
-
 🤖 Emerging Interests:
 Large Language Models (LLMs) for biomedical literature mining and financial sentiment analysis.
 Artificial General Intelligence (AGI) for cross-domain knowledge discovery.
